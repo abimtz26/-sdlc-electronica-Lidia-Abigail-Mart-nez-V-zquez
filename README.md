@@ -1,1 +1,1 @@
-# -sdlc-electronica-Lidia-Abigail-Mart-nez-V-zquez
+# -sdlc-electronica-Lidia-Abigail-Martínez-Vázquez
