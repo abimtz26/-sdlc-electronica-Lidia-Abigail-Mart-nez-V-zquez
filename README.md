@@ -1,4 +1,4 @@
 # -sdlc-electronica-Lidia-Abigail-Martínez-Vázquez
 
-##Formulario de autodiagnostico:
+## Formulario de autodiagnostico:
 
